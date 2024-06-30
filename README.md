@@ -1,3 +1,3 @@
 # apnacollagedemo
 This is my first git repository.
-author - Swopam Ganguly
+Author - Swopam Ganguly
